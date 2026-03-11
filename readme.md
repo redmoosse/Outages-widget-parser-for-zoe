@@ -11,8 +11,21 @@ A desktop application built with **Python** and **PyQt6** designed to monitor an
   <img width="371" height="689" alt="image" src="https://github.com/user-attachments/assets/24eecc4e-7902-4211-a5e9-0ae138b32368" />
   <img width="368" height="691" alt="image" src="https://github.com/user-attachments/assets/7aefd085-c559-4eea-9d99-15f12ff8d64a" />
   <img width="362" height="682" alt="image" src="https://github.com/user-attachments/assets/d21d8fba-f81a-4636-95f6-8e1f9639485a" />
+  <img width="369" height="692" alt="image" src="https://github.com/user-attachments/assets/ed8cecbe-e16b-4623-a5b0-4ee4b0442f70" />
+  <img width="367" height="678" alt="image" src="https://github.com/user-attachments/assets/3b7bc472-582c-411f-bf47-367a5ebc8ef5" />
   <img width="275" height="157" alt="image" src="https://github.com/user-attachments/assets/34c0747b-dfdb-48b5-b0fe-9bcdc69e9f94" />
 </div>
+
+## 🚀 How to Run on System Startup (Windows)
+
+To make the widget launch automatically every time you turn on your PC:
+
+1. **Compile the App:** First, compile the application into a single executable file using PyInstaller (e.g., `PowerSchedule.exe`).
+2. **Open Startup Folder:** Press `Win + R` on your keyboard to open the "Run" dialog.
+3. **Enter Command:** Type `shell:startup` and press **Enter**. A file explorer window will open.
+4. **Create Shortcut:** Create a shortcut of your `PowerSchedule.exe` file and move this shortcut into the opened Startup folder.
+
+That's it! The application will now start seamlessly in the background with your customized settings upon every boot.
 
 ## 🚀 Key Features
 
@@ -63,3 +76,5 @@ power_schedule.log: Local history of your device statistics.
 
 📝 Disclaimer
 This tool is intended for personal use. It relies on scraping public websites; changes to the utility provider's website structure may require updates to the parsing logic in core/zoe_parser.py.
+
+
