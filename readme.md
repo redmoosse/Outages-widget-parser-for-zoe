@@ -7,10 +7,12 @@ A modular desktop application built with **Python** and **PyQt6** designed to mo
 > **Note:** Add your screenshots to the repository and update the links below, or simply drag and drop your images directly into the GitHub editor to replace these placeholders.
 
 <div align="center">
-  <img width="275" height="157" alt="image" src="https://github.com/user-attachments/assets/34c0747b-dfdb-48b5-b0fe-9bcdc69e9f94" />
   <img width="363" height="688" alt="image" src="https://github.com/user-attachments/assets/9e185fc8-fa36-4995-b471-2e371b058c6b" />
+  <img width="362" height="682" alt="image" src="https://github.com/user-attachments/assets/0b94d550-3e56-4579-b0b3-91e59b071f73" />
   <img width="352" height="675" alt="image" src="https://github.com/user-attachments/assets/ff94e5e4-5062-4a94-810b-9fc529464619" />
   <img width="371" height="689" alt="image" src="https://github.com/user-attachments/assets/24eecc4e-7902-4211-a5e9-0ae138b32368" />
+  <img width="362" height="682" alt="image" src="https://github.com/user-attachments/assets/d21d8fba-f81a-4636-95f6-8e1f9639485a" />
+  <img width="275" height="157" alt="image" src="https://github.com/user-attachments/assets/34c0747b-dfdb-48b5-b0fe-9bcdc69e9f94" />
 </div>
 
 ## 🚀 Key Features
