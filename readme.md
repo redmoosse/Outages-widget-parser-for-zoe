@@ -4,8 +4,6 @@ A desktop application built with **Python** and **PyQt6** designed to monitor an
 
 ## 📸 Screenshots
 
-> **Note:** Add your screenshots to the repository and update the links below, or simply drag and drop your images directly into the GitHub editor to replace these placeholders.
-
 <div align="center">
   <img width="363" height="688" alt="image" src="https://github.com/user-attachments/assets/9e185fc8-fa36-4995-b471-2e371b058c6b" />
   <img width="362" height="682" alt="image" src="https://github.com/user-attachments/assets/0b94d550-3e56-4579-b0b3-91e59b071f73" />
