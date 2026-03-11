@@ -2,6 +2,17 @@
 
 A desktop application built with **Python** and **PyQt6** designed to monitor and manage power outage schedules. It intelligently combines real-time data scraping from local utility providers with a mathematical cyclic fallback system.
 
+## 🚀 How to Run on System Startup (Windows)
+
+To make the widget launch automatically every time you turn on your PC:
+
+1. **Compile the App:** First, compile the application into a single executable file using PyInstaller (e.g., `PowerSchedule.exe`).
+2. **Open Startup Folder:** Press `Win + R` on your keyboard to open the "Run" dialog.
+3. **Enter Command:** Type `shell:startup` and press **Enter**. A file explorer window will open.
+4. **Create Shortcut:** Create a shortcut of your `PowerSchedule.exe` file and move this shortcut into the opened Startup folder.
+
+That's it! The application will now start seamlessly in the background with your customized settings upon every boot.
+
 ## 📸 Screenshots
 
 <div align="center">
@@ -15,17 +26,6 @@ A desktop application built with **Python** and **PyQt6** designed to monitor an
   <img width="367" height="678" alt="image" src="https://github.com/user-attachments/assets/3b7bc472-582c-411f-bf47-367a5ebc8ef5" />
   <img width="275" height="157" alt="image" src="https://github.com/user-attachments/assets/34c0747b-dfdb-48b5-b0fe-9bcdc69e9f94" />
 </div>
-
-## 🚀 How to Run on System Startup (Windows)
-
-To make the widget launch automatically every time you turn on your PC:
-
-1. **Compile the App:** First, compile the application into a single executable file using PyInstaller (e.g., `PowerSchedule.exe`).
-2. **Open Startup Folder:** Press `Win + R` on your keyboard to open the "Run" dialog.
-3. **Enter Command:** Type `shell:startup` and press **Enter**. A file explorer window will open.
-4. **Create Shortcut:** Create a shortcut of your `PowerSchedule.exe` file and move this shortcut into the opened Startup folder.
-
-That's it! The application will now start seamlessly in the background with your customized settings upon every boot.
 
 ## 🚀 Key Features
 
