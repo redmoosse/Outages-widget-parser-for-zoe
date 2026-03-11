@@ -9,7 +9,7 @@ To make the widget launch automatically every time you turn on your PC:
 1. **Compile the App:** First, compile the application into a single executable file using PyInstaller, or just download last release (`Power_widget vx.x.x.exe`).
 2. **Open Startup Folder:** Press `Win + R` on your keyboard to open the "Run" dialog.
 3. **Enter Command:** Type `shell:startup` and press **Enter**. A file explorer window will open.
-4. **Create Shortcut:** Create a shortcut of your `PowerSchedule.exe` file and move this shortcut into the opened Startup folder.
+4. **Create Shortcut:** Create a shortcut of your `Power widget.exe` file and move this shortcut into the opened Startup folder.
 
 That's it! The application will now start seamlessly in the background with your customized settings upon every boot.
 
