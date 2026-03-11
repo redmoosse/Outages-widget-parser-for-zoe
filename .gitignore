@@ -179,3 +179,13 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+schedule_config.json
+power_schedule.log
+
+.vscode/
+.idea/
