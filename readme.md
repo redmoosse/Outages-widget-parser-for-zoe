@@ -1,6 +1,6 @@
 # ⚡ Power widget
 
-A modular desktop application built with **Python** and **PyQt6** designed to monitor and manage power outage schedules. It intelligently combines real-time data scraping from local utility providers with a mathematical cyclic fallback system.
+A desktop application built with **Python** and **PyQt6** designed to monitor and manage power outage schedules. It intelligently combines real-time data scraping from local utility providers with a mathematical cyclic fallback system.
 
 ## 📸 Screenshots
 
